@@ -19,7 +19,7 @@ AI, ML, DL proyects
 - 📫 How to reach me ...
 You want to talk more about it, please contact me:
 email: oscar.sanchezdw@gmail.com
-github: oscarszdz
+github: Oscarszdz
 
 <!---
 Oscarszdz/Oscarszdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
