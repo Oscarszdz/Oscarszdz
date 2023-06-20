@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oscarszdz
 
-Autodidact. Chemical Engineer, with 1 year of Master's Degree in Advanced Technology (in the area of Biomaterials, biopolymers, applied to the treatment of breast cancer.)
+Data Scientist. Chemical Engineer, with 1 year of Master's Degree in Advanced Technology (in the area of Biomaterials, biopolymers, applied to the treatment of breast cancer.)
 
 I became interested in technology having seen the topic of design of experiments in my master's degree.
 
