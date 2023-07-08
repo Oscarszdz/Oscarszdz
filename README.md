@@ -12,9 +12,6 @@ As hobbies, I enjoy reading, technology and general culture, playing the guitar,
 - 👀 I’m interested in Data Science and AI
 IT World, Technology.
 
-- 🌱 I’m currently learning Data Science and AI
-In Henry Bootcamp and constantly self-taught
-
 - 💞️ I’m looking to collaborate on ...
 AI, ML, DL proyects
 
