@@ -19,6 +19,8 @@ AI, ML, DL proyects
 You want to talk more about it, please contact me:
 email: oscar.sanchezdw@gmail.com
 github: Oscarszdz
+Twitter: https://twitter.com/dsoscarsd
+Portafolio: https://oscarszdz.github.io/
 
 <!---
 Oscarszdz/Oscarszdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
